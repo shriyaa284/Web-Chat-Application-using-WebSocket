@@ -1,6 +1,6 @@
 # Go Chat
 
-This is a simple chat web app written in Go
+This is a Fast Web Chat Application suing WebSocket and written in Go
 
 Just run the following
 
